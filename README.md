@@ -1,6 +1,6 @@
 # 🛠️ Data Warehouse Project – Medallion Architecture
 
-This project implements a modern data warehouse using the **Medallion Architecture**, structured in three layers: **Bronze**, **Silver**, and **Gold**. It demonstrates a complete ETL pipeline to ingest, transform, and curate data for analytics and reporting.
+This project implements a  data warehouse using the **Medallion Architecture**, structured in three layers: **Bronze**, **Silver**, and **Gold**. It demonstrates a complete ETL pipeline to ingest, transform, and curate data for analytics and reporting.
 
 ---
 
@@ -25,7 +25,7 @@ Source Data → 🟫 Bronze Layer → 🟪 Silver Layer → 🟨 Gold Layer → 
 3. **Gold Layer**:  
    - Business-level aggregations, KPIs, and denormalized views.
 
+## 🙏 Credits
 
-
-
+Inspired by [Data With Baraa](https://www.youtube.com/@DataWithBaraa).
 
