@@ -4,6 +4,10 @@ This project implements a  data warehouse using the **Medallion Architecture**, 
 
 ---
 
+![CRM & ERP Architecture](crm_erp_architecture.png)
+
+---
+
 ## 📐 Architecture Overview
 
 Source Data → 🟫 Bronze Layer → 🟪 Silver Layer → 🟨 Gold Layer → 📊 Analytics
